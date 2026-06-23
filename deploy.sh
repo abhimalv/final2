@@ -1,4 +1,3 @@
-cd final2
 
 echo "npm install"
 npm install
